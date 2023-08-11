@@ -1,0 +1,299 @@
+{
+    "os": "Linux-4.4.0-186-generic-x86_64-with-glibc2.17",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-08-11T10:27:13.529099",
+    "startedAt": "2023-08-11T10:27:02.538655",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "checkpoint"
+    ],
+    "state": "running",
+    "program": "train_bao.py",
+    "codePath": "bao/train_bao.py",
+    "git": {
+        "remote": "https://github.com/zhaoyue-ntu/QueryFormer.git",
+        "commit": "4890f1d0a41dbf76b68c23991c7ff86504b780c0"
+    },
+    "email": null,
+    "root": "/data1/liwaner/QueryFormer",
+    "host": "linux2",
+    "username": "liwaner",
+    "executable": "/data1/liwaner/miniconda/envs/bao/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 48,
+    "cpu_freq": {
+        "current": 1885.9791666666667,
+        "min": 1000.0,
+        "max": 2201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1800.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1900.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1900.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1400.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1900.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2201.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 1600.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        },
+        {
+            "current": 2000.0,
+            "min": 1000.0,
+            "max": 2201.0
+        }
+    ],
+    "disk": {
+        "total": 416.5425491333008,
+        "used": 313.6328239440918
+    },
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 4,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        }
+    ],
+    "memory": {
+        "total": 251.5344581604004
+    }
+}

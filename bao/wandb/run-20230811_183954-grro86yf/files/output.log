@@ -1,0 +1,13 @@
+
+Epoch 0 training loss: 0.03916321954923176
+Epoch 10 training loss: 0.037748239831862734
+Epoch 20 training loss: 0.03760783571619677
+Epoch 30 training loss: 0.037522028900310055
+Epoch 40 training loss: 0.03750676383439731
+Epoch 50 training loss: 0.03748970579354253
+Epoch 60 training loss: 0.03744884020728919
+Epoch 70 training loss: 0.037494446461470335
+Epoch 80 training loss: 0.037470567383645084
+Epoch 90 training loss: 0.0374309687742834
+Stopped training after max epochs
+Model saved, attempting load...

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "train_bao.py", line 86, in <module>
+    train_and_save_model(sys.argv[1])
+  File "train_bao.py", line 72, in train_and_save_model
+    reg.fit(x, y)
+  File "/data1/liwaner/QueryFormer/bao/bao_model.py", line 174, in fit
+    wandb.watch(BaoRegression)
+  File "/data1/liwaner/miniconda/envs/bao/lib/python3.8/site-packages/wandb/sdk/wandb_watch.py", line 71, in watch
+    raise ValueError(
+ValueError: Expected a pytorch model (torch.nn.Module). Received <class 'type'>

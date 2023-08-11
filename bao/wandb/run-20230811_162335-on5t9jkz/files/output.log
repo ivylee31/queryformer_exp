@@ -1,0 +1,6 @@
+
+Epoch 0 training loss: 0.05221487363243656
+Epoch 10 training loss: 0.05046191364181972
+Epoch 20 training loss: 0.05033709824475131
+Stopped training from convergence condition at epoch 26
+Model saved, attempting load...

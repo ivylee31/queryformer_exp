@@ -1,0 +1,906 @@
+2023-08-11 18:35:07,072 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:07,099 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:07,126 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:07,152 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:07,177 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:07,203 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:07,230 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:07,260 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183507-2qthfzoy/logs/debug.log
+2023-08-11 18:35:07,284 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183507-2qthfzoy/logs/debug-internal.log
+2023-08-11 18:35:07,305 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:07,327 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:07,349 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:07,384 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:07,411 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:07,433 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:07,465 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:07,505 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:07,551 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:07,578 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:07,605 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183507-pn4w6a8y/logs/debug.log
+2023-08-11 18:35:07,640 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183507-pn4w6a8y/logs/debug-internal.log
+2023-08-11 18:35:07,671 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:07,702 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:07,729 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:07,778 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:07,809 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:07,836 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:07,864 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:07,891 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:07,918 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:07,946 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:07,976 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183507-e6hsz9ks/logs/debug.log
+2023-08-11 18:35:08,004 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183507-e6hsz9ks/logs/debug-internal.log
+2023-08-11 18:35:08,031 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:08,058 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:08,084 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:08,127 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:08,170 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:08,200 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:08,230 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:08,260 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:08,290 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:08,319 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:08,349 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183508-vomqoz9l/logs/debug.log
+2023-08-11 18:35:08,379 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183508-vomqoz9l/logs/debug-internal.log
+2023-08-11 18:35:08,408 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:08,437 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:08,467 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:08,513 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:08,546 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:08,578 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:08,608 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:08,639 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:08,669 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:08,700 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:08,732 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183508-xwvyfsy0/logs/debug.log
+2023-08-11 18:35:08,763 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183508-xwvyfsy0/logs/debug-internal.log
+2023-08-11 18:35:08,795 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:08,826 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:08,857 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:08,905 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:08,937 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:08,974 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:09,005 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:09,036 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:09,067 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:09,098 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:09,130 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183508-681mar2r/logs/debug.log
+2023-08-11 18:35:09,160 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183508-681mar2r/logs/debug-internal.log
+2023-08-11 18:35:09,191 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:09,221 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:09,251 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:09,296 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:09,327 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:09,358 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:09,388 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:09,417 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:09,446 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:09,476 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:09,506 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183509-wxbg6apw/logs/debug.log
+2023-08-11 18:35:09,535 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183509-wxbg6apw/logs/debug-internal.log
+2023-08-11 18:35:09,565 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:09,629 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:09,656 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:09,695 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:09,722 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:09,747 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:09,777 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:09,802 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:09,827 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:09,851 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:09,877 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183509-a0senqas/logs/debug.log
+2023-08-11 18:35:09,903 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183509-a0senqas/logs/debug-internal.log
+2023-08-11 18:35:09,929 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:09,954 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:09,985 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:10,024 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:10,053 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:10,079 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:10,105 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:10,131 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:10,157 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:10,183 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:10,209 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183510-300u3h94/logs/debug.log
+2023-08-11 18:35:10,235 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183510-300u3h94/logs/debug-internal.log
+2023-08-11 18:35:10,261 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:10,285 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:10,311 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:10,357 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:10,384 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:10,410 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:10,437 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:10,462 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:10,487 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:10,512 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:10,537 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183510-v9tg2g2y/logs/debug.log
+2023-08-11 18:35:10,563 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183510-v9tg2g2y/logs/debug-internal.log
+2023-08-11 18:35:10,588 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:10,613 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:10,639 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:10,678 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:10,705 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:10,731 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:10,756 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:10,782 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:10,808 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:10,833 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:10,859 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183510-pz87kodj/logs/debug.log
+2023-08-11 18:35:10,885 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183510-pz87kodj/logs/debug-internal.log
+2023-08-11 18:35:10,911 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:10,937 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:10,964 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:11,010 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:11,038 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:11,064 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:11,090 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:11,117 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:11,143 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:11,168 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:11,195 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-auci66jf/logs/debug.log
+2023-08-11 18:35:11,221 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-auci66jf/logs/debug-internal.log
+2023-08-11 18:35:11,247 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:11,273 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:11,299 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:11,339 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:11,366 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:11,392 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:11,417 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:11,442 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:11,467 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:11,491 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:11,516 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-0ezfrx1r/logs/debug.log
+2023-08-11 18:35:11,542 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-0ezfrx1r/logs/debug-internal.log
+2023-08-11 18:35:11,567 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:11,592 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:11,617 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:11,658 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:11,685 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:11,710 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:11,735 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:11,760 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:11,785 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:11,813 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:11,838 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-3lkx4r70/logs/debug.log
+2023-08-11 18:35:11,864 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-3lkx4r70/logs/debug-internal.log
+2023-08-11 18:35:11,891 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:11,922 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:11,948 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:11,988 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:12,015 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:12,042 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:12,068 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:12,094 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:12,120 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:12,145 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:12,172 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-ox44umnf/logs/debug.log
+2023-08-11 18:35:12,198 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183511-ox44umnf/logs/debug-internal.log
+2023-08-11 18:35:12,224 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:12,250 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:12,276 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:12,316 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:12,343 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:12,370 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:12,396 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:12,422 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:12,449 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:12,474 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:12,496 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183512-agi2wu9i/logs/debug.log
+2023-08-11 18:35:12,517 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183512-agi2wu9i/logs/debug-internal.log
+2023-08-11 18:35:12,538 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:12,559 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:12,579 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:12,612 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:12,636 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:12,660 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:12,682 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:12,704 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:12,727 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:12,749 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:12,772 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183512-k65ugcfg/logs/debug.log
+2023-08-11 18:35:12,795 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183512-k65ugcfg/logs/debug-internal.log
+2023-08-11 18:35:12,819 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:12,841 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:12,865 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:12,900 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:12,924 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:12,947 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:12,970 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:12,993 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:13,016 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:13,038 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:13,061 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183512-ljhoemd0/logs/debug.log
+2023-08-11 18:35:13,086 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183512-ljhoemd0/logs/debug-internal.log
+2023-08-11 18:35:13,109 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:13,131 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:13,153 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:13,189 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:13,213 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:13,235 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:13,257 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:13,279 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:13,301 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:13,323 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:13,346 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183513-kgoa7sp8/logs/debug.log
+2023-08-11 18:35:13,368 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183513-kgoa7sp8/logs/debug-internal.log
+2023-08-11 18:35:13,391 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:13,413 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:13,435 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:13,468 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:13,496 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:13,526 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:13,630 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:13,658 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:13,682 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:13,705 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:13,729 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183513-spv2xs9u/logs/debug.log
+2023-08-11 18:35:13,753 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183513-spv2xs9u/logs/debug-internal.log
+2023-08-11 18:35:13,777 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:13,800 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:13,823 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:13,861 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:13,892 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:13,931 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:13,967 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:13,999 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:14,024 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:14,050 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:14,075 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183513-ftus9jwf/logs/debug.log
+2023-08-11 18:35:14,100 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183513-ftus9jwf/logs/debug-internal.log
+2023-08-11 18:35:14,126 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:14,151 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:14,177 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:14,217 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:14,244 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:14,268 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:14,293 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:14,317 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:14,340 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:14,368 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:14,401 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183514-26xrmbls/logs/debug.log
+2023-08-11 18:35:14,448 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183514-26xrmbls/logs/debug-internal.log
+2023-08-11 18:35:14,504 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:14,528 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:14,552 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:14,591 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:14,618 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:14,642 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:14,666 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:14,689 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:14,712 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:14,737 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:14,762 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183514-bvquvxn7/logs/debug.log
+2023-08-11 18:35:14,787 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183514-bvquvxn7/logs/debug-internal.log
+2023-08-11 18:35:14,813 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:14,837 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:14,862 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:14,898 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:14,925 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:14,949 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:14,973 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:14,997 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:15,021 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:15,045 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:15,070 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183514-qlxcmt52/logs/debug.log
+2023-08-11 18:35:15,094 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183514-qlxcmt52/logs/debug-internal.log
+2023-08-11 18:35:15,119 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:15,143 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:15,167 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:15,205 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:15,231 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:15,255 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:15,291 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:15,322 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:15,352 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:15,382 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:15,412 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183515-qa1daaga/logs/debug.log
+2023-08-11 18:35:15,442 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183515-qa1daaga/logs/debug-internal.log
+2023-08-11 18:35:15,470 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:15,500 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:15,529 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:15,576 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:15,614 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:15,648 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:15,680 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:15,710 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:15,740 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:15,771 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:15,802 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183515-i58rnp1a/logs/debug.log
+2023-08-11 18:35:15,834 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183515-i58rnp1a/logs/debug-internal.log
+2023-08-11 18:35:15,868 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:15,900 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:15,932 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:15,981 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:16,025 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:16,068 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:16,101 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:16,134 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:16,161 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:16,184 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:16,208 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183515-wjoq5rrz/logs/debug.log
+2023-08-11 18:35:16,234 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183515-wjoq5rrz/logs/debug-internal.log
+2023-08-11 18:35:16,266 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:16,291 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:16,321 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:16,370 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:16,399 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:16,432 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:16,465 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:16,493 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:16,527 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:16,563 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:16,595 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183516-tk7o9avf/logs/debug.log
+2023-08-11 18:35:16,629 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183516-tk7o9avf/logs/debug-internal.log
+2023-08-11 18:35:16,660 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:16,691 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:16,724 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:16,774 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:16,807 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:16,837 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:16,870 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:16,902 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:16,934 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:16,965 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:16,997 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183516-hk24msv3/logs/debug.log
+2023-08-11 18:35:17,029 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183516-hk24msv3/logs/debug-internal.log
+2023-08-11 18:35:17,062 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:17,094 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:17,126 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:17,175 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:17,207 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:17,239 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:17,273 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:17,303 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:17,333 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:17,363 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:17,393 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183517-7kapq08e/logs/debug.log
+2023-08-11 18:35:17,423 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183517-7kapq08e/logs/debug-internal.log
+2023-08-11 18:35:17,453 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:17,483 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:17,513 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:17,561 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:17,593 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:17,625 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:17,656 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:17,693 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:17,723 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:17,753 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:17,783 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183517-dp8dihrp/logs/debug.log
+2023-08-11 18:35:17,813 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183517-dp8dihrp/logs/debug-internal.log
+2023-08-11 18:35:17,845 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:17,875 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:17,906 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:17,953 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:17,985 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:18,016 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:18,046 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:18,077 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:18,106 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:18,137 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:18,166 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183517-py1f96lz/logs/debug.log
+2023-08-11 18:35:18,197 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183517-py1f96lz/logs/debug-internal.log
+2023-08-11 18:35:18,227 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:18,258 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:18,288 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:18,346 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:18,386 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:18,416 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:18,447 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:18,478 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:18,509 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:18,540 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:18,675 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183518-rivf1e3s/logs/debug.log
+2023-08-11 18:35:18,702 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183518-rivf1e3s/logs/debug-internal.log
+2023-08-11 18:35:18,729 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:18,756 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:18,782 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:18,822 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:18,849 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:18,876 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:18,902 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:18,928 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:18,954 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:18,981 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:19,009 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183518-cdtcmdr3/logs/debug.log
+2023-08-11 18:35:19,037 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183518-cdtcmdr3/logs/debug-internal.log
+2023-08-11 18:35:19,064 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:19,090 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:19,116 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:19,156 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:19,184 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:19,211 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:19,238 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:19,265 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:19,291 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:19,318 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:19,345 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183519-9mampl82/logs/debug.log
+2023-08-11 18:35:19,372 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183519-9mampl82/logs/debug-internal.log
+2023-08-11 18:35:19,400 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:19,426 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:19,453 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:19,496 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:19,524 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:19,552 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:19,579 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:19,605 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:19,632 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:19,659 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:19,687 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183519-3iv1ptrv/logs/debug.log
+2023-08-11 18:35:19,715 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183519-3iv1ptrv/logs/debug-internal.log
+2023-08-11 18:35:19,742 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:19,770 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:19,798 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:19,840 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:19,867 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:19,895 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:19,923 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:19,950 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:19,978 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:20,005 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:20,033 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183519-xyxugdfa/logs/debug.log
+2023-08-11 18:35:20,061 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183519-xyxugdfa/logs/debug-internal.log
+2023-08-11 18:35:20,090 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:20,118 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:20,145 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:20,187 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:20,215 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:20,242 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:20,270 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:20,297 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:20,325 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:20,352 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:20,380 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183520-urh41ccx/logs/debug.log
+2023-08-11 18:35:20,408 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183520-urh41ccx/logs/debug-internal.log
+2023-08-11 18:35:20,436 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:20,464 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:20,494 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:20,535 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:20,564 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:20,592 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:20,623 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:20,651 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:20,679 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:20,707 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:20,736 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183520-qm0jo0mi/logs/debug.log
+2023-08-11 18:35:20,764 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183520-qm0jo0mi/logs/debug-internal.log
+2023-08-11 18:35:20,793 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:20,822 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:20,851 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:20,894 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:20,923 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:20,950 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:20,977 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:21,004 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:21,036 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:21,063 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:21,090 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183520-igrjzybn/logs/debug.log
+2023-08-11 18:35:21,117 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183520-igrjzybn/logs/debug-internal.log
+2023-08-11 18:35:21,143 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:21,169 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:21,195 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:21,234 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:21,261 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:21,287 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:21,313 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:21,340 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:21,366 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:21,391 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:21,418 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183521-309xwuq9/logs/debug.log
+2023-08-11 18:35:21,447 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183521-309xwuq9/logs/debug-internal.log
+2023-08-11 18:35:21,471 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:21,496 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:21,522 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:21,563 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:21,590 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:21,616 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:21,642 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:21,668 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:21,694 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:21,719 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:21,744 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183521-gvs0xy76/logs/debug.log
+2023-08-11 18:35:21,770 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183521-gvs0xy76/logs/debug-internal.log
+2023-08-11 18:35:21,796 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:21,821 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:21,846 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:21,887 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:21,913 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:21,939 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:21,966 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:21,992 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:22,019 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:22,045 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:22,071 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183521-rwy267mm/logs/debug.log
+2023-08-11 18:35:22,097 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183521-rwy267mm/logs/debug-internal.log
+2023-08-11 18:35:22,124 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:22,150 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:22,173 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:22,208 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:22,233 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:22,256 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:22,280 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:22,303 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:22,325 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:22,348 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:22,371 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183522-obwuj9jq/logs/debug.log
+2023-08-11 18:35:22,394 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183522-obwuj9jq/logs/debug-internal.log
+2023-08-11 18:35:22,417 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:22,439 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:22,463 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:22,499 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:22,524 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:22,547 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:22,570 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:22,592 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:22,615 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:22,638 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:22,662 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183522-4pgijwmj/logs/debug.log
+2023-08-11 18:35:22,685 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183522-4pgijwmj/logs/debug-internal.log
+2023-08-11 18:35:22,708 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:22,731 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:22,755 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:22,790 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:22,815 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:22,838 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:22,861 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:22,884 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:22,907 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:22,930 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:22,953 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183522-5o269a5f/logs/debug.log
+2023-08-11 18:35:22,977 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183522-5o269a5f/logs/debug-internal.log
+2023-08-11 18:35:23,000 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:23,023 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:23,046 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:23,084 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:23,110 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:23,133 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:23,156 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:23,183 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:23,206 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:23,229 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:23,253 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183523-bk92344x/logs/debug.log
+2023-08-11 18:35:23,276 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183523-bk92344x/logs/debug-internal.log
+2023-08-11 18:35:23,300 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:23,323 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:23,346 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:23,381 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:23,407 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:23,429 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:23,453 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:23,475 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:23,499 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:23,522 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:23,587 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183523-m8synkc0/logs/debug.log
+2023-08-11 18:35:23,613 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183523-m8synkc0/logs/debug-internal.log
+2023-08-11 18:35:23,636 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:23,659 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:23,682 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:23,720 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:23,743 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:23,767 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:23,791 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:23,814 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:23,837 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:23,861 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:23,885 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183523-mkuyc6vp/logs/debug.log
+2023-08-11 18:35:23,908 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183523-mkuyc6vp/logs/debug-internal.log
+2023-08-11 18:35:23,934 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:23,958 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:23,982 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:24,017 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:24,044 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:24,066 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:24,090 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:24,113 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:24,136 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:24,159 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:24,183 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-0mc8dd6a/logs/debug.log
+2023-08-11 18:35:24,207 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-0mc8dd6a/logs/debug-internal.log
+2023-08-11 18:35:24,236 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:24,262 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:24,289 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:24,331 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:24,361 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:24,384 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:24,408 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:24,443 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:24,479 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:24,506 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:24,529 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-fqb32xwr/logs/debug.log
+2023-08-11 18:35:24,550 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-fqb32xwr/logs/debug-internal.log
+2023-08-11 18:35:24,573 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:24,601 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:24,637 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:24,682 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:24,707 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:24,730 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:24,754 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:24,777 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:24,799 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:24,820 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:24,842 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-fs2ab2wv/logs/debug.log
+2023-08-11 18:35:24,865 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-fs2ab2wv/logs/debug-internal.log
+2023-08-11 18:35:24,894 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:24,926 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:24,961 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:25,000 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:25,034 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:25,073 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:25,111 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:25,144 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:25,172 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:25,201 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:25,228 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-2vevbd3m/logs/debug.log
+2023-08-11 18:35:25,256 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183524-2vevbd3m/logs/debug-internal.log
+2023-08-11 18:35:25,286 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:25,313 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:25,337 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:25,373 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:25,400 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:25,424 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:25,447 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:25,470 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:25,492 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:25,515 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:25,538 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183525-p4yampfs/logs/debug.log
+2023-08-11 18:35:25,566 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183525-p4yampfs/logs/debug-internal.log
+2023-08-11 18:35:25,596 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:25,623 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:25,651 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:25,696 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:25,723 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:25,754 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:25,783 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:25,811 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:25,841 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:25,869 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:25,899 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183525-0p1hi2gi/logs/debug.log
+2023-08-11 18:35:25,927 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183525-0p1hi2gi/logs/debug-internal.log
+2023-08-11 18:35:25,955 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:25,983 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:26,011 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:26,052 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:26,081 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:26,109 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:26,137 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:26,165 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:26,192 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:26,220 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:26,248 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183526-29rci9ot/logs/debug.log
+2023-08-11 18:35:26,275 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183526-29rci9ot/logs/debug-internal.log
+2023-08-11 18:35:26,302 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:26,330 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:26,357 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:26,402 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:26,433 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:26,461 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:26,488 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:26,515 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:26,541 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:26,567 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:26,594 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183526-yzpbk0bb/logs/debug.log
+2023-08-11 18:35:26,622 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183526-yzpbk0bb/logs/debug-internal.log
+2023-08-11 18:35:26,651 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:26,679 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:26,708 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:26,751 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:26,779 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:26,808 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:26,836 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:26,864 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:26,891 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:26,919 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:26,948 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183526-s7wkkqbi/logs/debug.log
+2023-08-11 18:35:26,977 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183526-s7wkkqbi/logs/debug-internal.log
+2023-08-11 18:35:27,006 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:27,034 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:27,063 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:27,117 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:27,146 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:27,175 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:27,204 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:27,235 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:27,263 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:27,290 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:27,320 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183527-grdyo9cq/logs/debug.log
+2023-08-11 18:35:27,351 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183527-grdyo9cq/logs/debug-internal.log
+2023-08-11 18:35:27,379 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:27,406 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:27,435 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:27,476 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:27,504 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:27,531 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:27,560 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:27,585 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:27,610 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:27,636 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:27,665 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183527-2sfa3k3x/logs/debug.log
+2023-08-11 18:35:27,692 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183527-2sfa3k3x/logs/debug-internal.log
+2023-08-11 18:35:27,718 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:27,743 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:27,773 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:27,817 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:27,845 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:27,873 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:27,900 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:27,926 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:27,954 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:27,980 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:28,008 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183527-ivaftv3n/logs/debug.log
+2023-08-11 18:35:28,036 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183527-ivaftv3n/logs/debug-internal.log
+2023-08-11 18:35:28,065 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:28,092 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:28,121 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:28,164 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:28,193 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:28,221 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:28,249 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:28,277 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:28,304 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:28,332 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:28,360 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183528-lful8b0x/logs/debug.log
+2023-08-11 18:35:28,388 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183528-lful8b0x/logs/debug-internal.log
+2023-08-11 18:35:28,417 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:28,444 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:28,472 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:28,513 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:28,541 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:28,568 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:28,595 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:28,621 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:28,648 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:28,675 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:28,702 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183528-dymn86bz/logs/debug.log
+2023-08-11 18:35:28,730 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183528-dymn86bz/logs/debug-internal.log
+2023-08-11 18:35:28,758 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:28,785 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:28,812 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:28,852 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:28,880 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:28,908 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:28,936 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:28,964 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:28,992 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:29,020 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:29,049 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183528-je9qqx2b/logs/debug.log
+2023-08-11 18:35:29,077 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183528-je9qqx2b/logs/debug-internal.log
+2023-08-11 18:35:29,105 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:29,134 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:29,162 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:29,210 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:29,238 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:29,267 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:29,295 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:29,324 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:29,352 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:29,381 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:29,410 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183529-ly33md3f/logs/debug.log
+2023-08-11 18:35:29,438 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183529-ly33md3f/logs/debug-internal.log
+2023-08-11 18:35:29,467 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:29,494 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:29,520 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:29,563 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:29,590 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:29,617 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:29,643 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:29,668 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:29,694 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:29,720 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:29,745 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183529-v1nyvikk/logs/debug.log
+2023-08-11 18:35:29,771 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183529-v1nyvikk/logs/debug-internal.log
+2023-08-11 18:35:29,797 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:29,822 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:29,847 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:29,886 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:29,913 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:29,940 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:29,967 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:30,034 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:30,062 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:30,089 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:30,117 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183529-61vdwljb/logs/debug.log
+2023-08-11 18:35:30,144 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183529-61vdwljb/logs/debug-internal.log
+2023-08-11 18:35:30,172 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:30,199 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:30,226 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:30,268 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:30,296 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:30,323 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:30,348 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:30,373 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:30,398 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:30,425 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:30,453 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183530-34ktke2s/logs/debug.log
+2023-08-11 18:35:30,481 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183530-34ktke2s/logs/debug-internal.log
+2023-08-11 18:35:30,508 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:30,534 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:30,560 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:30,599 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:30,626 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:30,653 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:30,679 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:30,705 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:30,731 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:30,757 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:30,783 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183530-4anbl9x1/logs/debug.log
+2023-08-11 18:35:30,811 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183530-4anbl9x1/logs/debug-internal.log
+2023-08-11 18:35:30,838 INFO    MainThread:402239 [wandb_init.py:init():547] calling init triggers
+2023-08-11 18:35:30,864 INFO    MainThread:402239 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-11 18:35:30,890 INFO    MainThread:402239 [wandb_init.py:init():591] wandb.init() called when a run is still active
+2023-08-11 18:35:30,930 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-11 18:35:30,958 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Configure stats pid to 402239
+2023-08-11 18:35:30,985 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /home/liwaner/.config/wandb/settings
+2023-08-11 18:35:31,012 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from /data1/liwaner/QueryFormer/bao/wandb/settings
+2023-08-11 18:35:31,039 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-11 18:35:31,065 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-11 18:35:31,091 INFO    MainThread:402239 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'bao/train_bao.py', 'program': 'train_bao.py'}
+2023-08-11 18:35:31,117 INFO    MainThread:402239 [wandb_init.py:_log_setup():507] Logging user logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183530-oasltdbx/logs/debug.log
+2023-08-11 18:35:31,144 INFO    MainThread:402239 [wandb_init.py:_log_setup():508] Logging internal logs to /data1/liwaner/QueryFormer/bao/wandb/run-20230811_183530-oasltdbx/logs/debug-internal.log
